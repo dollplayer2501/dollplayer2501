@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/dollplayer2501/dollplayer2501/main/IMG_4276.jpg)
+![](https://raw.githubusercontent.com/dollplayer2501/dollplayer2501/main/IMG_4604_twitter.png)
 
 [𝙼𝚊𝚜𝚊𝚑𝚒𝚚𝚞𝚘, 𝙼𝙾𝚁𝚁𝚈](https://twitter.com/dollplayer2501)
 
