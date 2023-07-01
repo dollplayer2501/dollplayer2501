@@ -8,53 +8,53 @@
 
 
 # 4032x3024 to 2016x1512
-# convert -strip -resize 2016x1512 -quality 90 IMG_4604.png _IMG_4604.png
+convert -strip -resize 2016x1512 -quality 90 IMG_4604.png _IMG_4604.png
 
 
 # Fred's ImageMagick Scripts: POPART
 # http://www.fmwconcepts.com/imagemagick/popart/index.php
-# ./__popart -r 1 -c 1 -g 0 -i bilinear -c1 "yellow  red red red"       _IMG_4604.png _yl-rd-rd-rd.png
-# ./__popart -r 1 -c 1 -g 0 -i bilinear -c1 "yellow  green green green" _IMG_4604.png _yl-gr-gr-gr.png
-# ./__popart -r 1 -c 1 -g 0 -i bilinear -c1 "yellow  blue blue blue"    _IMG_4604.png _yl-bl-bl-bl.png
+./__popart -r 1 -c 1 -g 0 -i bilinear -c1 "yellow  red red red"       _IMG_4604.png _yl-rd-rd-rd.png
+./__popart -r 1 -c 1 -g 0 -i bilinear -c1 "yellow  green green green" _IMG_4604.png _yl-gr-gr-gr.png
+./__popart -r 1 -c 1 -g 0 -i bilinear -c1 "yellow  blue blue blue"    _IMG_4604.png _yl-bl-bl-bl.png
 
 # Create mask image
-# convert -size 2016x1512 xc:'#00000000' -fill '#ff00ffff' -draw \
-#     "polygon 0,0 380,0 880,1512 0,1512"         _mask1.png
-# convert -size 2016x1512 xc:'#00000000' -fill '#ff00ffff' -draw \
-#     "polygon 380,0 880,1512 1600,1512 1170,0"   _mask2.png
-# convert -size 2016x1512 xc:'#00000000' -fill '#ff00ffff' -draw \
-#     "polygon 1170,0 1600,1512 2016,1512 2016,0" _mask3.png
+convert -size 2016x1512 xc:'#00000000' -fill '#ff00ffff' -draw \
+    "polygon 0,0 380,0 880,1512 0,1512"         _mask1.png
+convert -size 2016x1512 xc:'#00000000' -fill '#ff00ffff' -draw \
+    "polygon 380,0 880,1512 1600,1512 1170,0"   _mask2.png
+convert -size 2016x1512 xc:'#00000000' -fill '#ff00ffff' -draw \
+    "polygon 1170,0 1600,1512 2016,1512 2016,0" _mask3.png
 
 # Masking
-# composite -compose dst-in _mask1.png _yl-rd-rd-rd.png -alpha on _z1.png
-# composite -compose dst-in _mask2.png _yl-gr-gr-gr.png -alpha on _z2.png
-# composite -compose dst-in _mask3.png _yl-bl-bl-bl.png -alpha on _z3.png
+composite -compose dst-in _mask1.png _yl-rd-rd-rd.png -alpha on _z1.png
+composite -compose dst-in _mask2.png _yl-gr-gr-gr.png -alpha on _z2.png
+composite -compose dst-in _mask3.png _yl-bl-bl-bl.png -alpha on _z3.png
 
 
 # Combined, composite, compound
-# composite -compose over  _z1.png _z2.png _zz1.png
-# composite -compose over _zz1.png _z3.png _zz7.png
+composite -compose over  _z1.png _z2.png _zz1.png
+composite -compose over _zz1.png _z3.png _zz7.png
 
 
 # Crop Twitter size(1500x500)
-# convert -crop 2016x672+0+400 _zz7.png _zz8.png
+convert -crop 2016x672+0+400 _zz7.png _zz8.png
 
 # Fred's ImageMagick Scripts: VINTAGE1 http://www.fmwconcepts.com/imagemagick/vintage1/index.php
 # scratchy window | For use in your creations, please credit m… | Flickr https://www.flickr.com/photos/borealnz/2473360890 (2048x1367)
-# ./__vintage1 _zz8.png _textures/2473360890_47e771a3e6_k.jpg _IMG_4604_twitter.png
+./__vintage1 _zz8.png _textures/2473360890_47e771a3e6_k.jpg _IMG_4604_twitter.png
 
 # Resize
-# convert -resize 1500x -quality 90 _IMG_4604_twitter.png IMG_4604_twitter.png
+convert -resize 1500x -quality 90 _IMG_4604_twitter.png IMG_4604_twitter.png
 
 
 # Crop Facebook size
 #  PC: 820x312
 #  Smart Phone: 640x360
-# convert -crop 1640x720+100+400 _zz7.png _zz9.png
+convert -crop 1640x720+100+400 _zz7.png _zz9.png
 
-# ./__vintage1 _zz9.png _textures/2473360890_47e771a3e6_k.jpg _IMG_4604_facebook.png
+./__vintage1 _zz9.png _textures/2473360890_47e771a3e6_k.jpg _IMG_4604_facebook.png
 
-# convert -resize 1500x -quality 90 _IMG_4604_facebook.png IMG_4604_facebook.png
+convert -resize 1500x -quality 90 _IMG_4604_facebook.png IMG_4604_facebook.png
 
 
 
