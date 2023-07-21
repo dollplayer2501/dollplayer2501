@@ -9,5 +9,5 @@ Avator: [http://bit.ly/3zaG4iP](http://bit.ly/3zaG4iP)
 Currently... as of June 2023, I am interested in:
 - [Eleventy](https://www.11ty.dev/)
 - [EndeavourOS](https://endeavouros.com/)
-- [Qtile](http://qtile.org/)
-- [Conky](https://conky.cc/)
+- [Qtile](http://qtile.org/), Python
+- [Conky](https://conky.cc/), Lua
