@@ -11,3 +11,7 @@ Currently... as of June 2023, I am interested in:
 - [EndeavourOS](https://endeavouros.com/)
 - [Qtile](http://qtile.org/), Python
 - [Conky](https://conky.cc/), Lua
+- [Git](https://git-scm.com/), [GitHub](https://github.com/)
+- [ImageMagick](https://imagemagick.org/index.php)
+- [FFmpeg](https://ffmpeg.org/)
+
