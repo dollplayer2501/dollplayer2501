@@ -10,15 +10,15 @@ Currently... as of June 2023, I am interested in:
 
 - **[Eleventy](https://www.11ty.dev/)**
     - [project2501-v2](https://github.com/dollplayer2501/project2501-v2)  
-    <a href="https://github.com/dollplayer2501/project2501-v2"><img src="https://raw.githubusercontent.com/dollplayer2501/project2501-v2/main/screenshot.png" width="200"></a>
+    <a href="https://github.com/dollplayer2501/project2501-v2"><img src="https://raw.githubusercontent.com/dollplayer2501/project2501-v2/main/screenshot.png" width="200" vspace="5"></a>
     - [Eleventy-netlify-V2](https://github.com/dollplayer2501/Eleventy-netlify-V2)
     - [Eleventy-test-bed](https://github.com/dollplayer2501/Eleventy-test-bed)  
-    <a href="https://github.com/dollplayer2501/Eleventy-test-bed"><img src="https://raw.githubusercontent.com/dollplayer2501/Eleventy-test-bed/main/screenshot.png" width="200">
+    <a href="https://github.com/dollplayer2501/Eleventy-test-bed"><img src="https://raw.githubusercontent.com/dollplayer2501/Eleventy-test-bed/main/screenshot.png" width="200" vspace="5">
 - **[Conky](https://conky.cc/)**, Lua
     - [angle_minus_five_degrees](https://github.com/dollplayer2501/angle_minus_five_degrees)  
-    <a href="https://github.com/dollplayer2501/angle_minus_five_degrees"><img src="https://raw.githubusercontent.com/dollplayer2501/angle_minus_five_degrees/main/_screenshots/screenshot__default.png" width="300"></a>
+    <a href="https://github.com/dollplayer2501/angle_minus_five_degrees"><img src="https://raw.githubusercontent.com/dollplayer2501/angle_minus_five_degrees/main/_screenshots/screenshot__default.png" width="300" vspace="5"></a>
     - [raleway_love](https://github.com/dollplayer2501/raleway_love)  
-    <a href="https://github.com/dollplayer2501/raleway_love"><img src="https://raw.githubusercontent.com/dollplayer2501/raleway_love/main/EndeavourOS_Qtile_2023-06-12_16-14-33.png" width="200">
+    <a href="https://github.com/dollplayer2501/raleway_love"><img src="https://raw.githubusercontent.com/dollplayer2501/raleway_love/main/EndeavourOS_Qtile_2023-06-12_16-14-33.png" width="200" vspace="5">
 - **[EndeavourOS](https://endeavouros.com/)**  
     I started using Linux in 2022, just like macOS and Windowds.
 - **[Qtile](http://qtile.org/)**, Python  
