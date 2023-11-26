@@ -37,3 +37,12 @@ Currently... as of November 2023, I am interested in:
 - [Git](https://git-scm.com/), [GitHub](https://github.com/)
 - [ImageMagick](https://imagemagick.org/index.php)
 - [FFmpeg](https://ffmpeg.org/)
+
+
+
+<dl>
+<dt>ソフトドリンク</dt>
+<dd>一般の飲料</dd>
+<dt>お酒</dt>
+<dd>アルコール入り飲料</dd>
+</dl>
