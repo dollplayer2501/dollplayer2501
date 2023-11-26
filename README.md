@@ -37,3 +37,26 @@ Currently... as of November 2023, I am interested in:
 - [Git](https://git-scm.com/), [GitHub](https://github.com/)
 - [ImageMagick](https://imagemagick.org/index.php)
 - [FFmpeg](https://ffmpeg.org/)
+
+
+
+
+
+<dl>
+    <dt>Eleventy</dt>
+    <dd>project2501-v2
+        <dl>
+            <dd><a href="https://github.com/dollplayer2501/project2501-v2"><img src="https://raw.githubusercontent.com/dollplayer2501/project2501-v2/main/screenshot.png" width="400"></a></dd>
+            <dd>@dollplayer2501's portal site, build with 11ty/Eleventy and Gulp</dd>
+            <dd>https://project2501.netlify.app/</dd>
+        </dl>
+    </dd>
+    <dd>**[Eleventy-netlify-V2](https://github.com/dollplayer2501/Eleventy-netlify-V2)**
+        <dl>
+            <dd><a href="https://github.com/dollplayer2501/Eleventy-netlify-V2"><img src="https://raw.githubusercontent.com/dollplayer2501/Eleventy-netlify-V2/main/screenshot..main.png" width="200"></a></dd>
+            <dd>Something like a "blog" but not a "blog"...ブログみたいだがブログではない何か</dd>
+            <dd>[https://dollplayer2501.netlify.app/](https://dollplayer2501.netlify.app/) a.k.a unlimited text works, the 4th.</dd>
+            <dd>駄文置き場</dd>
+        </dl>
+    </dd>
+</dl>
