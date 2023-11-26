@@ -38,6 +38,7 @@ Currently... as of November 2023, I am interested in:
     - I have installed it on ThinkPad X260, and have moved from macOS to do various development in this environment.
 - [Qtile](http://qtile.org/), Python
     - Like Linux mentioned above, it now uses Tiling window manager.
+    - [dollplayer2501/EndeavourOS-Qtile-rice](https://github.com/dollplayer2501/EndeavourOS-Qtile-rice) is currently **private**, but is planned to be made public in the future?
 - [Git](https://git-scm.com/), [GitHub](https://github.com/)
 - [ImageMagick](https://imagemagick.org/index.php)
 - [FFmpeg](https://ffmpeg.org/)
