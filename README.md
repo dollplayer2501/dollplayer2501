@@ -9,19 +9,22 @@ Avator: [http://bit.ly/3zaG4iP](http://bit.ly/3zaG4iP)
 Currently... as of November 2023, I am interested in:
 
 - [Eleventy](https://www.11ty.dev/)
+    - Basically, it is published on Netlify via GitHub, some of them have their own domains assigned.
     - **[project2501-v2](https://github.com/dollplayer2501/project2501-v2)**  
     <a href="https://github.com/dollplayer2501/project2501-v2"><img src="https://raw.githubusercontent.com/dollplayer2501/project2501-v2/main/screenshot.png" width="400"></a>
-        - [@dollplayer2501](https://github.com/dollplayer2501)'s portal site, build with 11ty/Eleventy and Gulp
-        - [https://project2501.netlify.app/](https://project2501.netlify.app/)
+        - [@dollplayer2501](https://github.com/dollplayer2501)'s portal site, build with 11ty/Eleventy and Gulp, [HTML5 UP!](https://html5up.net/)'s template.
+        - [https://project2501.netlify.app/](https://project2501.netlify.app/) or [https://project2501.duelist.org/](https://project2501.duelist.org/)
     - **[Eleventy-netlify-V2](https://github.com/dollplayer2501/Eleventy-netlify-V2)**  
     <a href="https://github.com/dollplayer2501/Eleventy-netlify-V2"><img src="https://raw.githubusercontent.com/dollplayer2501/Eleventy-netlify-V2/main/screenshot..main.png" width="200"></a>
     <a href="https://github.com/dollplayer2501/Eleventy-netlify-V2"><img src="https://raw.githubusercontent.com/dollplayer2501/Eleventy-netlify-V2/main/screenshot..sub.png" width="150"></a>
         - Something like a "blog" but not a "blog"...ブログみたいだがブログではない何か
+        - Build with 11ty/Eleventy and Gulp, [HTML5 UP!](https://html5up.net/)'s template.
         - 駄文置き場
         - [https://dollplayer2501.netlify.app/](https://dollplayer2501.netlify.app/) a.k.a "unlimited text works, the 4th."
     - **[Eleventy-test-bed](https://github.com/dollplayer2501/Eleventy-test-bed)**  
-    <a href="https://github.com/dollplayer2501/Eleventy-test-bed"><img src="https://raw.githubusercontent.com/dollplayer2501/Eleventy-test-bed/main/screenshot.png" width="250">
+    <a href="https://github.com/dollplayer2501/Eleventy-test-bed"><img src="https://raw.githubusercontent.com/dollplayer2501/Eleventy-test-bed/main/screenshot.png" width="250"></a>
         - This is a **test bench** for me to see the features of Eleventy.
+        - Build with 11ty/Eleventy and [Pico.css's Basic template](https://codesandbox.io/s/github/picocss/examples/tree/master/v1-basic-template).
         - [https://eleventy-test-bed-dollplayer2501.netlify.app/](https://eleventy-test-bed-dollplayer2501.netlify.app/)
 - [Conky](https://conky.cc/), Lua
     - **[angle_minus_five_degrees](https://github.com/dollplayer2501/angle_minus_five_degrees)**  
