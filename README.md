@@ -10,53 +10,34 @@ Currently... as of November 2023, I am interested in:
 
 - [Eleventy](https://www.11ty.dev/)
     - **[project2501-v2](https://github.com/dollplayer2501/project2501-v2)**  
-    <a href="https://github.com/dollplayer2501/project2501-v2"><img src="https://raw.githubusercontent.com/dollplayer2501/project2501-v2/main/screenshot.png" width="400" vspace="5"></a>
+    <a href="https://github.com/dollplayer2501/project2501-v2"><img src="https://raw.githubusercontent.com/dollplayer2501/project2501-v2/main/screenshot.png" width="400"></a>
         - [@dollplayer2501](https://github.com/dollplayer2501)'s portal site, build with 11ty/Eleventy and Gulp
         - [https://project2501.netlify.app/](https://project2501.netlify.app/)
     - **[Eleventy-netlify-V2](https://github.com/dollplayer2501/Eleventy-netlify-V2)**  
-    <a href="https://github.com/dollplayer2501/Eleventy-netlify-V2"><img src="https://raw.githubusercontent.com/dollplayer2501/Eleventy-netlify-V2/main/screenshot..main.png" width="200" vspace="5"></a>
+    <a href="https://github.com/dollplayer2501/Eleventy-netlify-V2"><img src="https://raw.githubusercontent.com/dollplayer2501/Eleventy-netlify-V2/main/screenshot..main.png" width="200"></a>
+    <a href="https://github.com/dollplayer2501/Eleventy-netlify-V2"><img src="https://raw.githubusercontent.com/dollplayer2501/Eleventy-netlify-V2/main/screenshot..sub.png" width="150"></a>
         - Something like a "blog" but not a "blog"...ブログみたいだがブログではない何か
-        - [https://dollplayer2501.netlify.app/](https://dollplayer2501.netlify.app/) a.k.a unlimited text works, the 4th.
         - 駄文置き場
+        - [https://dollplayer2501.netlify.app/](https://dollplayer2501.netlify.app/) a.k.a "unlimited text works, the 4th."
     - **[Eleventy-test-bed](https://github.com/dollplayer2501/Eleventy-test-bed)**  
-    <a href="https://github.com/dollplayer2501/Eleventy-test-bed"><img src="https://raw.githubusercontent.com/dollplayer2501/Eleventy-test-bed/main/screenshot.png" width="250" vspace="5">
+    <a href="https://github.com/dollplayer2501/Eleventy-test-bed"><img src="https://raw.githubusercontent.com/dollplayer2501/Eleventy-test-bed/main/screenshot.png" width="250">
         - This is a **test bench** for me to see the features of Eleventy.
         - [https://eleventy-test-bed-dollplayer2501.netlify.app/](https://eleventy-test-bed-dollplayer2501.netlify.app/)
 - [Conky](https://conky.cc/), Lua
-    - [angle_minus_five_degrees](https://github.com/dollplayer2501/angle_minus_five_degrees)  
-    <a href="https://github.com/dollplayer2501/angle_minus_five_degrees"><img src="https://raw.githubusercontent.com/dollplayer2501/angle_minus_five_degrees/main/_screenshots/screenshot__default.png" width="400" vspace="5"></a>
-    <a href="https://github.com/dollplayer2501/angle_minus_five_degrees"><img src="https://raw.githubusercontent.com/dollplayer2501/angle_minus_five_degrees/main/_screenshots/screenshot__node.png" width="300" vspace="5"></a>
+    - **[angle_minus_five_degrees](https://github.com/dollplayer2501/angle_minus_five_degrees)**  
+    <a href="https://github.com/dollplayer2501/angle_minus_five_degrees"><img src="https://raw.githubusercontent.com/dollplayer2501/angle_minus_five_degrees/main/_screenshots/screenshot__default.png" width="400"></a>
+    <a href="https://github.com/dollplayer2501/angle_minus_five_degrees"><img src="https://raw.githubusercontent.com/dollplayer2501/angle_minus_five_degrees/main/_screenshots/screenshot__node.png" width="300"></a>
         - Large conky theme assuming the use of transparent windows.
+        - I packed in as many functions as I could think of.
+        - In the future, I plan to create something simpler based on this.
     - [raleway_love](https://github.com/dollplayer2501/raleway_love)  
-    <a href="https://github.com/dollplayer2501/raleway_love"><img src="https://raw.githubusercontent.com/dollplayer2501/raleway_love/main/EndeavourOS_Qtile_2023-06-12_16-14-33.png" width="200" vspace="5"></a>
+    <a href="https://github.com/dollplayer2501/raleway_love"><img src="https://raw.githubusercontent.com/dollplayer2501/raleway_love/main/EndeavourOS_Qtile_2023-06-12_16-14-33.png" width="200"></a>
         - Conky theme with full use of **raleway fonts**, assuming the use of transparent windows.
-- [EndeavourOS](https://endeavouros.com/)  
-    I started using Linux in 2022, just like macOS and Windowds.
-- [Qtile](http://qtile.org/), Python  
-    Like Linux mentioned above, it now uses Tiling window manager.
+- **[EndeavourOS](https://endeavouros.com/)**
+    - I started using Linux in 2022, just like macOS and Windowds.
+    - I have installed it on ThinkPad X260, and have moved from macOS to do various development in this environment.
+- [Qtile](http://qtile.org/), Python
+    - Like Linux mentioned above, it now uses Tiling window manager.
 - [Git](https://git-scm.com/), [GitHub](https://github.com/)
 - [ImageMagick](https://imagemagick.org/index.php)
 - [FFmpeg](https://ffmpeg.org/)
-
-
-
-
-
-<dl>
-    <dt>Eleventy</dt>
-    <dd>project2501-v2
-        <dl>
-            <dd><a href="https://github.com/dollplayer2501/project2501-v2"><img src="https://raw.githubusercontent.com/dollplayer2501/project2501-v2/main/screenshot.png" width="400"></a></dd>
-            <dd>@dollplayer2501's portal site, build with 11ty/Eleventy and Gulp</dd>
-            <dd>https://project2501.netlify.app/</dd>
-        </dl>
-    </dd>
-    <dd>**[Eleventy-netlify-V2](https://github.com/dollplayer2501/Eleventy-netlify-V2)**
-        <dl>
-            <dd><a href="https://github.com/dollplayer2501/Eleventy-netlify-V2"><img src="https://raw.githubusercontent.com/dollplayer2501/Eleventy-netlify-V2/main/screenshot..main.png" width="200"></a></dd>
-            <dd>Something like a "blog" but not a "blog"...ブログみたいだがブログではない何か</dd>
-            <dd>[https://dollplayer2501.netlify.app/](https://dollplayer2501.netlify.app/) a.k.a unlimited text works, the 4th.</dd>
-            <dd>駄文置き場</dd>
-        </dl>
-    </dd>
-</dl>
