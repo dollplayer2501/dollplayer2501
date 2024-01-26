@@ -3,19 +3,22 @@
 
 
 #
-# Fred's ImageMagick Scripts: POPART
-#   http://www.fmwconcepts.com/imagemagick/popart/index.php
+# This script is using...
 #
-# Fred's ImageMagick Scripts: VINTAGE1
-#   http://www.fmwconcepts.com/imagemagick/vintage1/index.php
+# 1. Fred's ImageMagick Scripts: POPART
+#    http://www.fmwconcepts.com/imagemagick/popart/index.php
+#
+# 2. Fred's ImageMagick Scripts: VINTAGE1
+#    http://www.fmwconcepts.com/imagemagick/vintage1/index.php
 #
 # When used in this script
 # - chmod 0755
 # - Can be renamed, see `const_popart_filename`, `const_vintage1_filename`
 #
-# scratchy window | For use in your creations, please credit m… | Flickr
-#   https://www.flickr.com/photos/borealnz/2473360890
-#   size: 2048x1367
+# 3. scratchy window | For use in your creations, please credit m… | Flickr
+#    https://www.flickr.com/photos/borealnz/2473360890
+#    size: 2048x1367
+#
 # - can be renamed `const_overlay_image_filename`
 #
 
@@ -59,10 +62,12 @@ if __name__ == "__main__":
         'twitter': {
             'crop': '2016x672+0+400',
             'resize': '1500x',
+            'saturation': [0, 10, 20, 30],
         },
         'facebook': {
             'crop': '1640x720+100+400',
             'resize': '',
+            'saturation': [],
         },
     }
 
@@ -79,7 +84,6 @@ if __name__ == "__main__":
 
     #
     print('Fred''s ImageMagick Scripts: POPART')
-    # http://www.fmwconcepts.com/imagemagick/popart/index.php
     #
 
     for os_name in const_color_dic:
@@ -137,33 +141,11 @@ if __name__ == "__main__":
     print('Crop Twitter size(1500x500)')
     #
 
-    """
-    subprocess.run([
-            'convert', '-crop', '2016x672+0+400',
-            '_tmp_zz2.mpc',
-            '_tmp_zz3_twitter_crop.mpc',
-        ], encoding = 'utf-8')
-    """
-
     subprocess.run([
             'convert', '-crop', const_sns_dic['twitter']['crop'],
             '_tmp_zz2.mpc',
             '_tmp_zz3_twitter_crop.mpc',
         ], encoding = 'utf-8')
-
-
-    """
-    const_sns_dic = {
-        'twitter': {
-            'crop': '2016x672+0+400',
-            'resize': '1500x',
-        },
-        'facebook': {
-    """
-
-
-
-
 
 
     #
@@ -183,10 +165,21 @@ if __name__ == "__main__":
 
     subprocess.run([
             'convert', '-resize', const_sns_dic['twitter']['resize'], '-quality', '90',
-#            'convert', '-resize', '1500x', '-quality', '90',
             '_tmp_zz4_twitter_vintage.mpc',
             'IMG_4604_twitter.png',
         ], encoding = 'utf-8')
+
+
+    #
+    print('Modulate, Twitter')
+    #
+
+    for saturation in const_sns_dic['twitter']['saturation']:
+        subprocess.run([
+                'convert', '-modulate', '100,' + str(saturation) + ',100',
+                'IMG_4604_twitter.png',
+                'IMG_4604_twitter..modulate-100-' + str(saturation) + '-100.png'
+            ], encoding = 'utf-8')
 
 
     #
@@ -196,7 +189,6 @@ if __name__ == "__main__":
     #
 
     subprocess.run([
-#            'convert', '-crop', '1640x720+100+400',
             'convert', '-crop', const_sns_dic['facebook']['crop'],
             '_tmp_zz2.mpc',
             '_tmp_zz3_facebook_crop.mpc',
