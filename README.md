@@ -11,7 +11,10 @@
 
 <img src="https://raw.githubusercontent.com/dollplayer2501/dollplayer2501/refs/heads/main/EndeavourOS_Qtile_2025-02-27_14-57-10.png" width=200> <img src="https://raw.githubusercontent.com/dollplayer2501/dollplayer2501/refs/heads/main/EndeavourOS_Qtile_2025-02-27_14-57-32.png" width=200> <img src="https://raw.githubusercontent.com/dollplayer2501/dollplayer2501/refs/heads/main/EndeavourOS_Qtile_2025-02-27_14-57-42.png" width=200>
 
-As of the end of February 2025, we are focusing on setting up the environment on [EndeavourOS](https://endeavouros.com/) with [Qtile](https://qtile.org/).  
+As of the end of February 2025, I am focusing on setting up the environment on [EndeavourOS](https://endeavouros.com/) with [Qtile](https://qtile.org/).  
+
+<a href="https://github.com/dollplayer2501/project2501-v3"><img src="https://raw.githubusercontent.com/dollplayer2501/project2501-v3/refs/heads/main/source/images/screenshot..project2501-v3-dark..thumb.png" width=200></a> <a href="https://github.com/dollplayer2501/Eleventy-netlify-V2"><img src="https://raw.githubusercontent.com/dollplayer2501/project2501-v3/main/source/images/screenshot..Eleventy-netlify-V2..main..thumb.png" width="200"></a>
+
 For this reason, website production using [Eleventy](https://www.11ty.dev/) is currently on hold.  
 Currently, the environment settings on EndeavourOS are finally complete.  
 Separately from that, I would also like to increase my writing on **[Zenn](https://zenn.dev/dollplayer2501)** if possible.  
