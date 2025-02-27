@@ -9,7 +9,7 @@
 
 ## What are you interested in?
 
-<img src="https://raw.githubusercontent.com/dollplayer2501/dollplayer2501/refs/heads/main/EndeavourOS_Qtile_2025-02-27_14-57-10.png" width=300> <img src="https://raw.githubusercontent.com/dollplayer2501/dollplayer2501/refs/heads/main/EndeavourOS_Qtile_2025-02-27_14-57-32.png" width=300> <img src="https://raw.githubusercontent.com/dollplayer2501/dollplayer2501/refs/heads/main/EndeavourOS_Qtile_2025-02-27_14-57-42.png" width=300>
+<img src="https://raw.githubusercontent.com/dollplayer2501/dollplayer2501/refs/heads/main/EndeavourOS_Qtile_2025-02-27_14-57-10.png" width=200> <img src="https://raw.githubusercontent.com/dollplayer2501/dollplayer2501/refs/heads/main/EndeavourOS_Qtile_2025-02-27_14-57-32.png" width=200> <img src="https://raw.githubusercontent.com/dollplayer2501/dollplayer2501/refs/heads/main/EndeavourOS_Qtile_2025-02-27_14-57-42.png" width=200>
 
 As of the end of February 2025, we are focusing on setting up the environment on [EndeavourOS](https://endeavouros.com/) with [Qtile](https://qtile.org/).
 For this reason, website production using [Eleventy](https://www.11ty.dev/) is currently on hold.
