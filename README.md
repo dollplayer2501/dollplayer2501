@@ -8,7 +8,9 @@
 
 ## What are you interested in?
 
-<img src="https://raw.githubusercontent.com/dollplayer2501/dollplayer2501/refs/heads/main/EndeavourOS_Qtile_2025-02-27_14-57-10.png" width=200> <img src="https://raw.githubusercontent.com/dollplayer2501/dollplayer2501/refs/heads/main/EndeavourOS_Qtile_2025-02-27_14-57-32.png" width=200> <img src="https://raw.githubusercontent.com/dollplayer2501/dollplayer2501/refs/heads/main/EndeavourOS_Qtile_2025-02-27_14-57-42.png" width=200>
+<img src="./screenshot..qtile/01..TreeTabLayout..EndeavourOS_Qtile_2025-03-10_15-43-29.png" width=200>
+<img src="./screenshot..qtile/02..VerticalTileLayout..01..single..EndeavourOS_Qtile_2025-03-10_15-44-34.png" width=200>
+<img src="./screenshot..qtile/02..VerticalTileLayout..02..many..EndeavourOS_Qtile_2025-03-10_15-44-54.png" width=200>
 
 As of the end of February 2025, I am focusing on setting up the environment on [EndeavourOS](https://endeavouros.com/) with [Qtile](https://qtile.org/).  
 
