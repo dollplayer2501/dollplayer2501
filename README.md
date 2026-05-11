@@ -10,6 +10,11 @@
 
 ### #1: A Linux desktop environment centered around Qtile
 
+The current deliverables are as follows:
+
+- (dotfiles_ver3_terminal)[https://github.com/dollplayer2501/dotfiles_ver3_terminal]
+- dotfiles_ver3_window-manager... coming soon
+
 My current PC setup consists of the following two computers:
 
 ### 1: ThinkPad X13 Gen 1 (AMD), RAM 16GB
