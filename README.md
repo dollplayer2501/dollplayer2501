@@ -12,7 +12,7 @@
 
 The current deliverables are as follows:
 
-- (dotfiles_ver3_terminal)[https://github.com/dollplayer2501/dotfiles_ver3_terminal]
+- [dotfiles_ver3_terminal](https://github.com/dollplayer2501/dotfiles_ver3_terminal)
 - dotfiles_ver3_window-manager... coming soon
 
 My current PC setup consists of the following two computers:
