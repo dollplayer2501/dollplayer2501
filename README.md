@@ -1,9 +1,10 @@
 ## Who am I?
 
-**[Masahiquo, Naraya MORRY@X/Twitter](https://twitter.com/dollplayer2501)**
-
 > IT土方・電算職（自称）, NOT ENGINEER.  
 > Avator: [http://bit.ly/3zaG4iP](http://bit.ly/3zaG4iP)
+
+More information is here..  
+[project2501 - Masahiquo, 'Nara-ya/奈良屋' MORRY](https://project2501.duelist.org/)
 
 
 ## What am I interested in?
