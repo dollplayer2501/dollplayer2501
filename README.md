@@ -16,7 +16,27 @@ The current deliverables are as follows:
 - [dotfiles_ver3_terminal](https://github.com/dollplayer2501/dotfiles_ver3_terminal)
 - [dotfiles_ver3_window-manager](https://github.com/dollplayer2501/dotfiles_ver3_window-manager)
 
-My current PC setup consists of the following two computers:
+
+### #2: Creating a Conky theme
+
+I don’t follow trends; instead, I freely choose my own themes.
+
+<a href="https://github.com/dollplayer2501/Time__Clock_of_the_Heart"><img src="https://raw.githubusercontent.com/dollplayer2501/Time__Clock_of_the_Heart/refs/heads/main/screenshot/main..04.png" width="300"></a>
+
+
+### #3: (Currently on hiatus) Web development centered around Eleventy/11ty
+
+<a href="https://github.com/dollplayer2501/project2501-v3"><img src="https://raw.githubusercontent.com/dollplayer2501/project2501-v3/refs/heads/main/source/images/screenshot..project2501-v3-dark..thumb.png" width=200></a> <a href="https://github.com/dollplayer2501/Eleventy-netlify-V2"><img src="https://raw.githubusercontent.com/dollplayer2501/project2501-v3/main/source/images/screenshot..Eleventy-netlify-V2..main..thumb.png" width="200"></a>
+
+- **Left side**  
+  [dollplayer2501/project2501-v3: @dollplayer2501's portal and portfolio site, build with 11ty/Eleventy and Gulp.](https://github.com/dollplayer2501/project2501-v3)
+- **Right side**  
+  [dollplayer2501/Eleventy-netlify-V2: My blog-like site using Eleventy.](https://github.com/dollplayer2501/Eleventy-netlify-V2)
+
+
+## BTW, here is my PC setup
+
+Objectively speaking, it is quite underpowered, but it is sufficient for my needs.
 
 ### 1: ThinkPad X13 Gen 1 (AMD), RAM 16GB
 
@@ -36,12 +56,3 @@ From Niri and Qtile on CachyOS to Qtile on Xfce4 on EndeavourOS
 - I have started using the Synology DS223j.
 - I switched from an iPhone to an Android phone.
 
-
-### #2: (Currently on hiatus) Web development centered around Eleventy/11ty
-
-<a href="https://github.com/dollplayer2501/project2501-v3"><img src="https://raw.githubusercontent.com/dollplayer2501/project2501-v3/refs/heads/main/source/images/screenshot..project2501-v3-dark..thumb.png" width=200></a> <a href="https://github.com/dollplayer2501/Eleventy-netlify-V2"><img src="https://raw.githubusercontent.com/dollplayer2501/project2501-v3/main/source/images/screenshot..Eleventy-netlify-V2..main..thumb.png" width="200"></a>
-
-- **Left side**  
-  [dollplayer2501/project2501-v3: @dollplayer2501's portal and portfolio site, build with 11ty/Eleventy and Gulp.](https://github.com/dollplayer2501/project2501-v3)
-- **Right side**  
-  [dollplayer2501/Eleventy-netlify-V2: My blog-like site using Eleventy.](https://github.com/dollplayer2501/Eleventy-netlify-V2)
