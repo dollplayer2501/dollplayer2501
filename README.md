@@ -16,6 +16,8 @@ The current deliverables are as follows:
 - [dotfiles_ver3_terminal](https://github.com/dollplayer2501/dotfiles_ver3_terminal)
 - [dotfiles_ver3_window-manager](https://github.com/dollplayer2501/dotfiles_ver3_window-manager)
 
+I have installed and am currently using Qtile within an Xfce4 environment on EndeavourOS.
+
 
 ### #2: Creating a Conky theme
 
